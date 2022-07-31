@@ -1,2 +1,2 @@
 # RealEstrate
-EasyA x Polkadot Hackcathon Submission
+EasyA x Polkadot Hackathon Submission
